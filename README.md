@@ -1,3 +1,4 @@
 # Image_editing
+This code was written for an assignment for my COMP 401 class at UNC
 
-This is an Java app developed for an assignment in my COMP 401 Class at UNC Chapel Hill
+
